@@ -8,7 +8,6 @@ const fibonacci = function(num) {
         fib.push(value);
 
     }
-    console.log(fib)
     return fib[num];
 
 };
